@@ -1,7 +1,7 @@
 {
   "name": "default_opener",
   "description": "Allows you to open a link in your default browser",
-  "path": "/home/pshanubhog/dev/default-opener/app/default_opener.py",
+  "path": "/Users/pshanubhog/dev/default-opener/app/default_opener.py",
   "type": "stdio",
   "allowed_origins": [ "chrome-extension://pdigngkioaimpjccmppidbnkolamofpp/"  ]
 }
